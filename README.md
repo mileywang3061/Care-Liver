@@ -4,3 +4,11 @@ Code example for the MICCAI 2025 CARE-Liver challenge, addressing advanced autom
 Paper: Semi-supervised Liver Segmentation and Patch-based Fibrosis Staging with Registration-aided Multi-parametric MRI
 
 Challenge website: https://zmic.org.cn/care_2025/track4/
+
+## Usage
+
+### Requirement
+
+### Model Training
+
+### Model inference
