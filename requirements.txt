@@ -1,0 +1,12 @@
+torch>=2.0
+torchvision
+numpy
+pandas
+scikit-learn
+scipy
+nibabel
+nilearn
+SimpleITK
+antspyx
+tqdm
+opencv-python
