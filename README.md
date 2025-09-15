@@ -8,7 +8,13 @@ Challenge website: https://zmic.org.cn/care_2025/track4/
 ## Usage
 
 ### Requirement
+Python 3.10.14 \
+PyTorch 2.0.0
+```bash
+pip install -r requirement.txt
+```
 
 ### Model Training
+1
 
 ### Model inference
