@@ -15,6 +15,5 @@ pip install -r requirement.txt
 ```
 
 ### Model Training
-1
 
 ### Model inference
