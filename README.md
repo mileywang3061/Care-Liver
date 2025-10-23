@@ -13,7 +13,3 @@ PyTorch 2.0.0
 ```bash
 pip install -r requirement.txt
 ```
-
-### Model Training
-
-### Model inference
